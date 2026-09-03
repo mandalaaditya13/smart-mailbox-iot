@@ -25,6 +25,9 @@ The system acts as an automated, secure container for online shopping deliveries
 * `/ESP32-CAM` : Contains the Wi-Fi and Telegram camera server script.
 
 ## 🖼️ System Diagrams & Schematics
-* **Fritzing Schematic:** ![Fritzing](Fritzing.png)
-* **Block Diagram:** ![Block Diagram](Block Diagram.png)
-* **Data Flow Diagram:** ![DFD](DFD.png)
+* **Block Diagram:** 
+  ![Block Diagram](Block%20Diagram.png)
+* **Data Flow Diagram:** 
+  ![DFD](DFD.png)
+* **Fritzing Schematic:** 
+  ![Fritzing](Fritzing.png)
